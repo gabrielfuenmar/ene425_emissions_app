@@ -88,7 +88,7 @@ class SuperUser(UserMixin,db.Model):
     __bind_key__= "db2"
     id = db.Column(db.Integer, primary_key=True)
     student = db.Column(db.String)
-    user_name= db.Column(db.String)
+    user_name= db.Column(db.String)##If it breaks change back to Integer for Mixin
     password = db.Column(db.String)
     group_name= db.Column(db.String)
 
