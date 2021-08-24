@@ -1,6 +1,7 @@
 # ENE425 Emissions App
 Emissions DB collector for ENE425
 
+Deployment at http://ene425.gabrielfuentes.org/
 
 # ENE425 Emissions App
 ### This is an app created for the course ENE425 of the Norwegian School of Economics. 
